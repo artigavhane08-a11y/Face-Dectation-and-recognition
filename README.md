@@ -21,5 +21,8 @@ This project is built using Python and OpenCV (LBPH Algorithm).
 2. Run:
    py -3.10 main_task.py
 
+#linkedin
+(https://www.linkedin.com/posts/arti-gavhane-37740b1aa_python-opencv-computervision-activity-7434496385510699009-dccH?utm_source=share&utm_medium=member_android&rcm=ACoAADDTnEsBXXnA-4Cp6vFsMW5T9J7QyqzqPl8)
+
 ## Output
 Recognizes the trained person and displays their name on the image.
